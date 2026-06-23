@@ -1,4 +1,4 @@
-module github.com/p000ic/go-mongo-session
+module github.com/initial-commit-hq/go-mongo-session
 
 go 1.21
 
